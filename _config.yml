@@ -39,7 +39,7 @@ twitter:
 webmaster_verifications:
   google: 6Is1whz1UZbjrp5vrSn-iQnYtE6AnDc4UTDd2KRJlPs
   
-permalink: /{{template-categories}}/:title/
+permalink: /:categories/:title/
 
 plugins: 
     - jekyll-paginate
